@@ -10,7 +10,7 @@
 127.0.0.1 sdkconfig.ad.xiaomi.com
 
 # 小爱同学
-127.0.0.1 tracker.ai.xiaomi.com
+#127.0.0.1 tracker.ai.xiaomi.com
 
 # 好像是小米自己的引擎 还在内测
 127.0.0.1 mazu.sec.miui.com
